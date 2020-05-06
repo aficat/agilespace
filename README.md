@@ -3,7 +3,7 @@ AgileSpace is a web-based application that acts as an "AirBNB" platform for unde
 
 ## Setup Database on MySQL Workbench and Server on Netbeans
 1. Clone repository.
-2. Open application `Backend` on NetBeans.
+2. Open application `backend` on NetBeans.
 3. Double-click on AgileSpace-war.war to open the war application.
 4. Double-click on AgileSpace-ejb.jar to open the ejb application.
 5. Resolve project problems by adding JUnit_4.11 library.
@@ -13,5 +13,5 @@ AgileSpace is a web-based application that acts as an "AirBNB" platform for unde
 
 ## Setup Frontend on Visual Studio
 1. Open Visual Studio.
-2. Locate `Frontend` folder and open `agilespace` folder.
+2. Open `agilespace` folder.
 3. Run application.

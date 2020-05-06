@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\agilespace",
+    "\\agilespace\\ClientApp",
+    "\\agilespace\\ClientApp\\public",
+    "\\agilespace\\ClientApp\\src",
+    "\\agilespace\\ClientApp\\src\\components",
+    "\\agilespace\\ClientApp\\src\\layouts",
+    "\\agilespace\\ClientApp\\src\\layouts\\Dashboard",
+    "\\agilespace\\Controllers",
+    "\\agilespace\\Properties"
+  ],
+  "SelectedNode": "\\agilespace\\ClientApp\\src\\components\\Home.js",
+  "PreviewInSolutionExplorer": false
+}
